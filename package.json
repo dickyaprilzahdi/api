@@ -1,0 +1,19 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "Membuat REST API dengan Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git remote add origin https://github.com/dickyaprilzahdi/api.git"
+  },
+  "keywords": [
+    "restapi",
+    "nodejs"
+  ],
+  "author": "Dicky April Zahdi",
+  "license": "ISC"
+}
