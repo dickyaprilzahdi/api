@@ -5,7 +5,7 @@ const conn = mysql.createConnection({
     host: 'localhost',
     user: 'root',
     password: '',
-    database: 'aplikasijs'
+    database: 'db_aplikasijs'
 });
 
 conn.connect((err) => {
